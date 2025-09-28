@@ -20,3 +20,10 @@
 
 [XJTU-CSTE-Mentor-Group/大三/操作系统 at main · script-Yang/XJTU-CSTE-Mentor-Group](https://github.com/script-Yang/XJTU-CSTE-Mentor-Group/tree/main/大三/操作系统)
 
+
+
+放一套期末模拟卷，仅供参考
+
+![9fa72a8f5feba151a60912f0b22e27ec](D:\xwechat_files\wxid_ro2boddrlunb22_1978\temp\RWTemp\2025-09\9e20f478899dc29eb19741386f9343c8\9fa72a8f5feba151a60912f0b22e27ec.jpg)
+
+![4a1ee65e39deb70740d37dd9179492d5](D:\xwechat_files\wxid_ro2boddrlunb22_1978\temp\RWTemp\2025-09\9e20f478899dc29eb19741386f9343c8\4a1ee65e39deb70740d37dd9179492d5.jpg)
